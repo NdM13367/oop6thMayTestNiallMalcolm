@@ -1,0 +1,6 @@
+For question 3 I would
+write a class that implements the runnable interface,
+place the code into a run method class,
+create an object for the subclass,
+construct a thread from the runnable object and
+call the start method to run the thread
